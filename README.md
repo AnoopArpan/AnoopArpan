@@ -1,53 +1,61 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Anoop</h1>
-<h3 align="center">A passionate developer unraveling the secrets of algorithms and creative problem-solving</h3>
+<!-- Header Animation -->
+<h1 align="center">✨ Hey there, I'm Anoop! 👋</h1>
+<h3 align="center">Full-stack problem solver | Algorithm explorer | Bit-bending enthusiast</h3>
 
-<!-- Cool GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding animation">
-</div>
-
----
-
-### 🚀 About Me
-- 🌱 Currently diving deep into **C++**, **JavaScript**, and **backend development with Express.js**
-- 🧩 Love tackling challenges involving **dynamic programming**, **bitwise tricks**, and **manual multiplication** logic
-- 🔍 Debugging edge cases and optimizing algorithms is my daily fuel
-- 🌐 Exploring mapping tech like **OpenStreetMap APIs** and resource-savvy development
-- 💬 Ask me about: **linked lists**, **sliding window patterns**, or how to write a function without using `+` 😉
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Debugging+into+the+unknown...;Writing+code+that+smiles+back+%F0%9F%98%89;Lover+of+bitwise+magic+and+modulo+tricks&center=true&width=380&height=45">
+</p>
 
 ---
 
-### 🛠️ Technologies & Tools
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+### 💡 Quick Byte About Me
+- 🔭 Currently building backend APIs with **Express.js** & battling complex edge cases  
+- 🧠 Obsessed with solving algorithm puzzles like **Ugly Numbers**, **Sliding Windows**, and **Bitwise Swaps**
+- 💻 On a journey to master **JavaScript + C++** from DOM to dynamic programming
+- 🌍 Finding free API gems like **OpenStreetMap** to power resource-smart apps
+- 🎯 Goal: Crack FAANG-style problems with clean, optimized code!
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anoop-your-username&show_icons=true&theme=radical" alt="Anoop GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anoop-your-username&theme=radical" alt="GitHub streak" />
-</div>
-
----
-
-### 📫 Reach Out
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 📧 Mail me at: `youremail@example.com`
+| Language | Tools & Frameworks | Misc |
+|---------|--------------------|------|
+| ![C++](https://img.shields.io/badge/C++-blue?style=flat-square&logo=cplusplus&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-grey?style=flat-square) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black) | ![HTML](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/header_.png" width="100%" />
-</div>
+### 📈 GitHub Stats That Matter
 
-<!-- Spark some life into the footer -->
-<p align="center">Made with ❤️ while debugging C++ code & bending bits</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoop-your-username&layout=compact&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anoop-your-username&theme=tokyonight" />
+</p>
+
+---
+
+### ✨ Fun Bits
+
+- 🧮 I once wrote a program to add numbers without using `+` (bitwise FTW 💥)
+- 🧵 Built Pascal's Triangle with nested loops just for fun (and learning)
+- 💬 Probably debugging `SensorMon.exe` when not deep in arrays
+
+---
+
+### 📫 Connect with Me
+
+- 📧 `youremail@example.com`  
+- 🌐 [My Portfolio](https://your-portfolio-link.dev)  
+- 🧑‍💼 [LinkedIn](https://linkedin.com/in/your-profile)
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+<p align="center">
+  <b>“Code hard, debug harder.”</b>
+</p>
