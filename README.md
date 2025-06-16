@@ -1,5 +1,5 @@
 <!-- Header Animation -->
-<h1 align="center">✨ Hey there, I'm Anoop! 👋</h1>
+<h1 align="center">✨ Hey there, I'm Anoop Arpan! 👋</h1>
 <h3 align="center">Full-stack problem solver | Algorithm explorer | Bit-bending enthusiast</h3>
 
 <p align="center">
@@ -9,11 +9,9 @@
 ---
 
 ### 💡 Quick Byte About Me
-- 🔭 Currently building backend APIs with **Express.js** & battling complex edge cases  
+- 🔭 Currently building backend APIs & battling complex edge cases  
 - 🧠 Obsessed with solving algorithm puzzles like **Ugly Numbers**, **Sliding Windows**, and **Bitwise Swaps**
 - 💻 On a journey to master **JavaScript + C++** from DOM to dynamic programming
-- 🌍 Finding free API gems like **OpenStreetMap** to power resource-smart apps
-- 🎯 Goal: Crack FAANG-style problems with clean, optimized code!
 
 ---
 
@@ -29,26 +27,16 @@
 ### 📈 GitHub Stats That Matter
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoop-your-username&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnoopArpan&layout=compact&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anoop-your-username&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnoopArpan&theme=tokyonight" />
 </p>
-
----
-
-### ✨ Fun Bits
-
-- 🧮 I once wrote a program to add numbers without using `+` (bitwise FTW 💥)
-- 🧵 Built Pascal's Triangle with nested loops just for fun (and learning)
-- 💬 Probably debugging `SensorMon.exe` when not deep in arrays
-
 ---
 
 ### 📫 Connect with Me
 
-- 📧 `youremail@example.com`  
-- 🌐 [My Portfolio](https://your-portfolio-link.dev)  
-- 🧑‍💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 📧 `anooparpan027@gmail.com`   
+- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/anoop-arpan-30aa462aa/)
 
 ---
 
